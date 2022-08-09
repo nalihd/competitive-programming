@@ -33,5 +33,4 @@ int main (){
 
     cout << dp[N] << endl;
 
-
 }
